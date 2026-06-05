@@ -1,16 +1,14 @@
-## Hi there 👋
+```text
+//         _____                                                _____                                         
+//      __|_    |__  _____    __    __   _  __   _  _____    __|_    |__  ______  _____  _____  _____  _____  
+//     |    \      ||     | _|  |_ |  |_| ||  | | ||     |  |    |      ||   ___|/     \|     ||     |/     \ 
+//     |     \     ||     \|_    _||   _  ||  |_| ||     \  |    |      | `-.`-. |     ||    _||    _||     | 
+//     |__|\__\  __||__|\__\ |__|  |__| |_||______||__|\__\ |____|    __||______|\_____/|___|  |___|  \_____/ 
+//        |_____|                                              |_____|                                        
+//
+```
 
-<!--
-**ArthurIsoppo/ArthurIsoppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+- 🎓 *Computer Engineering Student* at *PUCRS*.
+- 🔬 Undergraduate Researcher (Bolsista IC) at the *Laboratório de Sistemas Autônomos (LSA)*.
+- ⚙️ Passionate about *hardware*, *embedded systems* (*and metal 🤘*).
