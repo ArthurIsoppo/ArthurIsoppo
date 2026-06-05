@@ -8,7 +8,7 @@
 //
 ```
 
-👨‍💻 About Me
+🖥️ About Me
 - 🎓 **Computer Engineering Student** at **PUCRS**.
-- 🔬 Undergraduate Researcher (Bolsista IC) at the **Laboratório de Sistemas Autônomos (LSA)**.
+- 🥽 Undergraduate Researcher (Bolsista IC) at the **Laboratório de Sistemas Autônomos (LSA)**.
 - ⚙️ Passionate about **hardware**, **embedded systems** (and **metal 🤘**).
